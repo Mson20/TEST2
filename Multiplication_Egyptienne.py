@@ -5,7 +5,8 @@ def multplication_egyptienne(A,B):
     while a != 0:
         if (a%2) == 1:
             i=i+b
-        b=b*2
+        b=+b
         a=a//2
     return(i)
 print(multplication_egyptienne(34,32))            
+#test
