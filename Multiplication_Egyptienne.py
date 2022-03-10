@@ -8,5 +8,4 @@ def multplication_egyptienne(A,B):
         b=+b
         a=a//2
     return(i)
-print(multplication_egyptienne(34,32))            
-#test
+print(multplication_egyptienne(34,32))
